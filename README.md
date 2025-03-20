@@ -45,6 +45,6 @@ A **full-stack hotel booking platform** where users can **book hotels, upload th
 **Open in the browser** - The application will be accessible at `http://localhost:8080`  
 ## Preview
 
-![Hotel Booking Website Preview](Preview1.png)
-![Hotel Booking Website Preview](Preview2.png)
+![Hotel Booking Website Preview](preview1.png)
+![Hotel Booking Website Preview](preview2.png)
 
